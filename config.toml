@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://prathamdu.netlify.app/"
 metaDataFormat = "yaml"
 title = "Blist Multilingual Theme"
 theme = "blist"
