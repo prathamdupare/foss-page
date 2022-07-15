@@ -1,4 +1,4 @@
-baseurl = "https://velvety-tapioca-b8961a.netlify.app/"
+baseurl = "https://fosspage.netlify.app/"
 metaDataFormat = "yaml"
 title = "FOSSpage"
 theme = "blist"
