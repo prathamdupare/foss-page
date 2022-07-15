@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Welcome to FOSSpage!"
+      introTitle = "Hey there. Check out the posts below!!"
       introSubtitle = "FOSS everything"
-      introPhoto = "/picture1.jpg"
+      introPhoto = "/logo.png"
       logo = "/logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
