@@ -1,5 +1,5 @@
 ---
-author: "Hugo Authors"
+author: "Pratham Dupare"
 title: "Top 5 open-source browser alternatives to Chrome"
 description: "It's time to think about your privacy"
 tags: ["markdown", "css", "html"]

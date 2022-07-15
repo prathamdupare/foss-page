@@ -1,5 +1,5 @@
 ---
-author: Pratham Dupare
+author: "Pratham Dupare"
 title: Top 5 Android Apps That Will Boost Your Productivity — 2022
 date: 2021-07-14
 description: Apps that prioritize your work

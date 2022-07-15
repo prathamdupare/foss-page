@@ -1,5 +1,5 @@
 ---
-author: "Hugo Authors"
+author: "Pratham Dupare"
 title: "You Should Switch To These Private Messengers Now!"
 date: 2021-07-15
 description: "These are open source!"

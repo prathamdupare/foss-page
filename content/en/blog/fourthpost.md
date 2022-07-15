@@ -1,5 +1,5 @@
 ---
-author: "Hugo Authors"
+author: "Pratham Dupare"
 title: "Do this to reduce Instagram Addiction on Android!"
 date: 2021-07-13
 description: 
