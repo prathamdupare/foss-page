@@ -35,7 +35,7 @@ DefaultContentLanguageInSubdir = true
         url = "blog/firstpost"
         weight = 4
 
-  
+googleAnalytics = "G-G7Y67HV9P3"
 
 [params]
   # Enable the darkmode toggle in header
