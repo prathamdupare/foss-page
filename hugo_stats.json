@@ -12,6 +12,7 @@
       "h1",
       "h2",
       "h3",
+      "h4",
       "h5",
       "head",
       "header",
@@ -33,7 +34,13 @@
       "span",
       "stop",
       "svg",
+      "table",
+      "tbody",
+      "td",
+      "th",
+      "thead",
       "title",
+      "tr",
       "ul"
     ],
     "classes": [
@@ -193,11 +200,19 @@
       "5-link-to-windows",
       "5-telegram",
       "a",
+      "android",
+      "android-apps",
       "benefits-of-using-foss",
       "best-way-to-do-it",
       "conclusion",
+      "mobile-os",
+      "note-taking",
       "reels",
+      "search-engine",
       "smooth-navigation",
+      "this-list-gets-reguarly-updated",
+      "this-page-provides-the-list-of-all-open-source-alternatives-to-proprietary-software-and-services",
+      "this-page-provides-the-list-of-all-open-source-alternatives-to-proprietary-software-and-services-this-list-gets-reguarly-updated",
       "tutorial"
     ]
   }

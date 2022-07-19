@@ -35,6 +35,11 @@ DefaultContentLanguageInSubdir = true
         url = "blog/firstpost"
         weight = 4
 
+    [[languages.en.menu.main]]
+        name = "FOSS Alternatives"
+        url = "page/alternative/"
+        weight = 4
+
 googleAnalytics = "G-G7Y67HV9P3"
 
 [params]
