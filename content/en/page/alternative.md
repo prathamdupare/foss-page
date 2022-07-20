@@ -30,23 +30,37 @@ type: alternative
 | Google Keep       | Fokus
 
 ## Mobile OS
-|  Type           | Open-source Alternatives
-| --------------- | --------------- 
-|  Andr   | LineageOS
-|                 | Calyx OS
-|                 | Graphene OS
-|                 | /e/ (Murena-e project) 
-|                 | 
-|                 | 
-|  Android OS     | Ubuntu Touch 
-|                 | Postmarket OS
-|                 | Mobian OS
-|                 | Plasma Mobile
-|                 | Sailfish OS (Partially open source)
-|                 | Kai OS (Partially open source)
+|  Type                     | Open-source Alternatives
+| ---------------           | --------------- 
+|  AOSP                     | LineageOS
+|                           | Calyx OS
+|                           | Graphene OS
+|                           | /e/ (Murena-e project) 
+|                           | 
+|                           | 
+|  Android alternatives     | Ubuntu Touch 
+|                           | Postmarket OS
+|                           | Mobian OS
+|                           | Plasma Mobile
+|                           | Sailfish OS (Partially open source)
+|                           | Kai OS (Partially open source)
 
 ## Note-taking
 | Proprietary                      | Open-source Alternatives
 | ---------------                  | --------------- 
 | Google Keep,Evernote, OneNote    | Joplin
 |                                  | Obsidian
+
+## Software and Services
+| Proprietary            | Open-source Alternatives
+| ---------------        | --------------- 
+| Gmail                  | Proton mail/ Thunderbird
+| Microsoft Office       | LibreOffice
+| Photoshop/Photo-editor | GIMP
+| Adobe Illustrator      | Inkspace/ LibreOffice Draw
+| Premiere Pro           | Kdenlive
+| Windows Media player   | VLC
+| Blogger                | Hugo/Wordpress
+| Google Drive           | Nextcloud
+| Gaming                 | WINE
+| Torrent                | qBittorent/Deluge
