@@ -38,7 +38,7 @@ DefaultContentLanguageInSubdir = true
     [[languages.en.menu.main]]
         name = "FOSS Alternatives"
         url = "page/alternative/"
-        weight = 4
+        weight = 5
 
 googleAnalytics = "G-G7Y67HV9P3"
 
@@ -61,7 +61,6 @@ googleAnalytics = "G-G7Y67HV9P3"
   # The page bundle that is shown on the front page
   frontBundle = "blog"
 
-  # ascentColor = #e9d5ff
 
 [params.homepage.social]
   # Global params xommon for both languages
