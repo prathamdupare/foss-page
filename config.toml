@@ -1,0 +1,13 @@
+theme = "blowfish"
+
+# config/_default/config.toml
+
+baseURL = "https://your_domain.com/"
+languageCode = "en"
+
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.87.0 "
+    max = "0.110.0"
