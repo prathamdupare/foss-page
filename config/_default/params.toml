@@ -126,8 +126,8 @@ defaultBackgroundImage = "IMAGE.png" # used as default for background images
   # domain = "llama.yoursite.com"
 
 [buymeacoffee]
-  # identifier = ""
-  # globalWidget = true
+  identifier = "www.buymeacoffee.com/prathamdupare"
+  globalWidget = true
   # globalWidgetMessage = "Hello"
   # globalWidgetColor = "#FFDD00"
   # globalWidgetPosition = "Right"
