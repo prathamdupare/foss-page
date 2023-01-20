@@ -1,6 +1,6 @@
 ---
 author: "Pratham Dupare"
-title: Make your phone perfect.
+title: Make Your Phone Perfect
 date: 2023-01-20
 description: "With 4 days of battery life!"
 tags: ["Android"]
