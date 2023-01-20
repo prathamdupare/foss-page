@@ -48,6 +48,7 @@ defaultBackgroundImage = "IMAGE.png" # used as default for background images
   showDate = true
   showComments = true
   #showViews = true
+  enableCodeCopy = true
   #showLikes = true
   showDateUpdated = false
   showAuthor = true
@@ -128,9 +129,9 @@ defaultBackgroundImage = "IMAGE.png" # used as default for background images
 [buymeacoffee]
   identifier = "www.buymeacoffee.com/prathamdupare"
   globalWidget = true
-  # globalWidgetMessage = "Hello"
-  # globalWidgetColor = "#FFDD00"
-  # globalWidgetPosition = "Right"
+  globalWidgetMessage = "Hello"
+  globalWidgetColor = "#FFDD00"
+  globalWidgetPosition = "Right"
 
 [verification]
   # google = ""
