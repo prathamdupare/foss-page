@@ -7,7 +7,7 @@ tags: ["Android"]
 thumbnail: "/android_13.png"
 ---
 
-# The Perfect Phone
+# The Perfect Phone -
 
 Your phone comes with a lot of stuff out of the box—a lot of features, but also a lot of unnecessary stuff. All of these distracting things can take away a lot of your precious time. Humans are not designed to constantly check their phones and have the thought of charging the phone every night in the back of their minds. This causes people to ignore real-life situations. 
 
