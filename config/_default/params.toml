@@ -12,6 +12,7 @@ autoSwitchAppearance = false
 enableSearch = true
 enableCodeCopy = true
 
+
 # mainSections = ["section1", "section2"]
 # robots = ""
 
@@ -19,15 +20,15 @@ enableCodeCopy = true
 
 defaultBackgroundImage = "IMAGE.png" # used as default for background images 
 
-# highlightCurrentMenuArea = true
-# smartTOC = true
+highlightCurrentMenuArea = true
+smartTOC = true
 # smartTOCHideUnfocusedChildren = true
 
 [header]
   layout = "basic" # valid options: basic, fixed
 
 [footer]
- # showMenu = true
+ #showMenu = true
   showCopyright = true
   showThemeAttribution = true
   showAppearanceSwitcher = true
@@ -71,7 +72,7 @@ defaultBackgroundImage = "IMAGE.png" # used as default for background images
   showAuthorsBadges = false 
   showWordCount = true
   showSummary = true
-  sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email"]
+  sharingLinks = [ "linkedin", "email"]
 
 [list]
   showHero = true
