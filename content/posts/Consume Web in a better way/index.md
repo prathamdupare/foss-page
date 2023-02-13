@@ -1,6 +1,6 @@
 ---
 author: "Pratham Dupare"
-title: Consume Internet The Better Way"
+title: Consume Internet The Better Way
 date: 2023-02-13
 description: "Consume internet the better way"
 tags: ["Android"]
