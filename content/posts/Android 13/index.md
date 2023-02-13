@@ -9,7 +9,7 @@ thumbnail: "/android_13.png"
 
 Google released [Android 13 beta 3](https://www.tomsguide.com/news/android-13-beta-3-has-arrived-heres-whats-new) in June, and we just got [Android 13 beta 4](https://www.tomsguide.com/news/android-13s-final-beta-is-here-and-the-official-release-is-weeks-away) in July.
 
-Beta 3 gave us new taskbar support and multi-window mode which are better optimized for bigger screens, Beta 4 came with stability improvements.
+Beta-3 gave us new taskbar support and multi-window mode which are better optimized for bigger screens, Beta 4 came with stability improvements.
 In no time, we will get a stable release.
 
 These are the new features coming to Android 13.
