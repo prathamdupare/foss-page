@@ -127,6 +127,9 @@ smartTOC = true
   # site = "ABC12345"
   # domain = "llama.yoursite.com"
 
+googleAnalytics = "G-RXRT939RMT"
+
+
 [buymeacoffee]
   identifier = "www.buymeacoffee.com/prathamdupare"
   globalWidget = true
