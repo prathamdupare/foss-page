@@ -11,3 +11,6 @@ languageCode = "en"
     extended = true
     min = "0.87.0 "
     max = "0.110.0"
+
+
+googleAnalytics = "G-RXRT939RMT"
