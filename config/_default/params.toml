@@ -5,7 +5,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme = "slate"
+colorScheme = "blowfish"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = false
 
@@ -38,7 +38,7 @@ smartTOC = true
   layout = "background" # valid options: page, profile, hero, card, background, custom
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
   showRecent = true
-  showRecentItems = 5
+  showRecentItems = 8
   showMoreLink = true
   showMoreLinkDest = "/posts"
   cardView = false
@@ -48,7 +48,7 @@ smartTOC = true
 [article]
   showDate = true
   showComments = true
-  #showViews = true
+  showViews = true
   enableCodeCopy = true
   #showLikes = true
   showDateUpdated = false
@@ -82,7 +82,7 @@ smartTOC = true
   showBreadcrumbs = true
   showSummary = false
   #showViews = true
-  #showLikes = true
+  #showLikes = false
   showTableOfContents = true
   showCards = false
   groupByYear = true
