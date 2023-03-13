@@ -78,15 +78,3 @@ type: alternative
 
 
 
-test change
-
-#### Comments
-
-<script src="https://utteranc.es/client.js"
-        repo="prathamdupare/foss-page"
-        issue-term="pathname"
-        label="Comment"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
