@@ -29,3 +29,5 @@ You can find the source code [here](https://dl.winehq.org/wine/source/7.x/wine-7
         crossorigin="anonymous"
         async>
 </script>
+
+My first inline equation: $x= \frac{-b \pm \sqrt{b^{2} - 4ac}}{2a}$.
