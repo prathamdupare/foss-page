@@ -19,6 +19,9 @@ Various problems and bug fixes solved with:  Civilization IV, Unravel Two, Waves
  
 You can find the source code [here](https://dl.winehq.org/wine/source/7.x/wine-7.14.tar.xz).
 
+
+My first inline equation: $x = \frac{-b \pm \sqrt{b^{2} - 4ac}}{2a}$.
+
 #### Comments
 
 <script src="https://utteranc.es/client.js"

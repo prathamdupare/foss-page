@@ -14,7 +14,7 @@ type: alternative
 | Chrome Browser    | [Brave](https://brave.com/)/ [Firefox](https://www.mozilla.org/)/ [Chromium](https://www.chromium.org/chromium-projects/)/ [Bromite](https://www.bromite.org/)
 | Play Store        | [Aurora store](https://auroraoss.com/)/ [F-Droid](https://f-droid.org/)/ [Aurora Droid](https://auroraoss.com/)
 | Google Play Services       | [microG](https://microg.org/)
-| Maps       | [OsmAnd](https://f-droid.org/packages/net.osmand.plus/) / [Organic Maps](https://f-droid.org/en/packages/app.organicmaps/) - fork of [MAPS.ME](https://maps.me/)
+| Maps              | [OsmAnd](https://f-droid.org/packages/net.osmand.plus/) / [Organic Maps](https://f-droid.org/en/packages/app.organicmaps/) - fork of [MAPS.ME](https://maps.me/)
 | Youtube           | [NewPipe](https://newpipe.net/)
 | G-board           | [FlorisBoard](https://github.com/florisboard/florisboard) / [Simple Keyboard](https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/) / [AnySoftKeyboard](https://anysoftkeyboard.github.io/)
 | Launcher          | [Lawnchair](https://f-droid.org/packages/ch.deletescape.lawnchair.plah/)
