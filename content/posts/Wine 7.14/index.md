@@ -18,6 +18,7 @@ Wine 7,14 release:
 Various problems and bug fixes solved with:  Civilization IV, Unravel Two, Waves Central, Cheat Engine, World of Tanks, Roblox, Total War Shogun 2.
  
 You can find the source code [here](https://dl.winehq.org/wine/source/7.x/wine-7.14.tar.xz).
+<<<<<<< HEAD
 
 
 My first inline equation: $x = \frac{-b \pm \sqrt{b^{2} - 4ac}}{2a}$.
@@ -32,3 +33,5 @@ My first inline equation: $x = \frac{-b \pm \sqrt{b^{2} - 4ac}}{2a}$.
         crossorigin="anonymous"
         async>
 </script>
+=======
+>>>>>>> 1eb90a60a4e64fa7ba8d99350b6aa0f0837d70ce
