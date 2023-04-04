@@ -16,8 +16,6 @@ These are the new features coming to Android 13.
 
 ## Android 13 features
 
-test
-
 - **3D experience**- Google is working on providing you 3D experience with paired audio and android devices.
 
 - **Bluetooth LE Audio** - Latest Bluetooth version support needs less power, multi-device support, and reduced stuttering. This is present in Android 13.
@@ -50,13 +48,4 @@ test
 If you are familiar with Android 12's rollout, you can guess when Android 13 will get released.
 After releasing [Android 13 beta 4](https://www.tomsguide.com/news/android-13s-final-beta-is-here-and-the-official-release-is-weeks-away) Google described the release as weeks away. So it looks like Android 13 will release in August 2022.
 
-#### Comments
 
-<script src="https://utteranc.es/client.js"
-        repo="prathamdupare/fosspage_web"
-        issue-term="pathname"
-        label="Comment"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
