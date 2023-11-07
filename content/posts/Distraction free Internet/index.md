@@ -4,7 +4,7 @@ title: Distraction free Setup
 date: 2023-11-07
 description: "..."
 tags: ["Android"]
-thumbnail: "/android_13.png"
+thumbnail: "/Internet.png"
 ---
 
 # Distractions
