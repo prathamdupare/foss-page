@@ -17,7 +17,6 @@ RSS stands for (Really Simple Syndication). It is used to distribute frequently 
 
 RSS feeds were really popular in 2000s, overtime their popularity decreased, with the emergence of social media and other sites that pulls you in a rabbit hole.Still this is a perfect tool for people who want to prioritize work and want to stay away from distractions.
 
-
 Newsboat is a simple terminal based RSS Feed reader which works on Linux. It is active maintained. You can check the GitHub repo [here](https://github.com/newsboat/newsboat).
 
 You can easily install newsboat from your distribution's repository [(a lot of distros have a package)](https://repology.org/project/newsboat).
@@ -26,14 +25,13 @@ You can easily install newsboat from your distribution's repository [(a lot of d
 
 Among the features that stand out of Newsboat, we can find:
 
- - Supports RSS 0.9x, 1.0, 2.0 and Atom
- - Keyboard control with the ability to define your own key combinations(Yes you can   configure VIM keybindings!!)
- - Find all uploaded feeds
- - Classify your subscriptions using tag system
- - Change colors and customize   
- - Import and export of OPML subscriptions
- - Ability to sync feeds with Google Reader.
-
+- Supports RSS 0.9x, 1.0, 2.0 and Atom
+- Keyboard control with the ability to define your own key combinations(Yes you can configure VIM keybindings!!)
+- Find all uploaded feeds
+- Classify your subscriptions using tag system
+- Change colors and customize
+- Import and export of OPML subscriptions
+- Ability to sync feeds with Google Reader.
 
 #### Install via snap:
 
@@ -41,30 +39,32 @@ Among the features that stand out of Newsboat, we can find:
 sudo snap install newsboat
 ```
 
-#### On Arch Linux
+#### On Arch Linux using yay
+
 ```
 yay -S newsboat
 ```
-or 
+
+or
 
 ```
 sudo pacman -S newsboat
 ```
 
-#### Or you can clone and install 
+#### Or you can clone and install
 
 ```
 git clone git://github.com/newsboat/newsboat.git
 ```
 
 And then run:
+
 ```
 make
 sudo make install
 ```
 
 ### Configuring or adding feeds
-
 
 <img class="special-img-class" src="/2023/newsboat/url.png"/>
 Now you have installed newsboat, but first we need to configure and add urls.
@@ -76,6 +76,7 @@ Under this folder create a file named **"urls"**.
 Paste all the RSS links you need into this file. You can use any text editor to edit these files. I prefer Vim.
 
 This website also has a RSS feed, you can paste this link inside urls file:
+
 ```
 https://fosspage.com/index.xml
 ```
@@ -90,14 +91,14 @@ Once you visit a site you will see RSS icon above, click on that icon, copy the 
 
 Your browser might render the xml url, but we just need that url, copy it from url bar.
 
-
-
 ### Bonus
+
 You can subscribe to YouTube channels too! Awesome RSS or any extension will find them for you. There is another way to get them through source code but we won't get into that. Looks like YouTube and Google don't want to share their RSS links!
 
 Finally run into your terminal:
+
 ```
-newsboat 
+newsboat
 ```
 
 You will be greeted with a minimal but beautiful list of websites. Navigate with arrow keys and press Enter to select a website. Newsboat will refresh last 15 posts.
@@ -105,6 +106,7 @@ You will be greeted with a minimal but beautiful list of websites. Navigate with
 You are done!
 
 ### Optional Customization
+
 Newsboat can be configured in any way you want, it can also open the feeds in browser, play YouTube directly in MPV or VLC player and much more!
 
 You can use my [newsboat configuration](). Simply paste the config file in **.newsboat** folder.
@@ -143,6 +145,7 @@ touch yt.sh
 ```
 alias yt='./yt.sh'
 ```
+
 5. Run "yt" inside terminal and you should see search box. Search the term you want and you will see results. Navigate with arrow keys and select the video you want to play.
 
 Note that this script does not use YouTube API and hence can't display thumbnails.
